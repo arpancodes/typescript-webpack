@@ -4,3 +4,9 @@ I learnt:
 - using es6 modules
 - adding source maps
 - setting up a webpack dev server
+
+## start dev server 
+```
+npm install
+npm run serve
+```
